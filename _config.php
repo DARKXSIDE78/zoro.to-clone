@@ -13,8 +13,8 @@ $discord = "https://dsc.gg/kirixen";
 $github = "https://github.com/kirixen";
 $twitter = "https://x.com/KiriX3n";
  
-$disqus = "https://.disqus.com/embed.js";
-$api = "https://.vercel.app"; 
+$disqus = "test-AXhdYQHajl.disqus.com";
+$api = "https://gogo-api-sable.vercel.app"; 
 
 $banner = $websiteUrl . "/files/images/banner.png";
 ?>

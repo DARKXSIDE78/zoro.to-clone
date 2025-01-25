@@ -2,7 +2,7 @@
 
 
 $websiteTitle = "Zoro";
-$websiteUrl = "//{$_SERVER['SERVER_NAME']}";
+$websiteUrl = "https://zoro-to-clone-theta.vercel.app/";
 $websiteLogo = $websiteUrl . "/files/images/logo_zoro.png";
 $contactEmail = "@gmail.com";
 
